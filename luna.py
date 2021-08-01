@@ -48,7 +48,7 @@ async def type_and_send(message):
 async def repo(_, message):
     await message.reply_text(
         "[ULTRAPRO](t.me/PATRICIAXMUSIC)"
-        + " | [Group](t.me/PatheticProgrammers)",
+        + " | [Group](t.me/PATRICIA_SUPPORT)",
         disable_web_page_preview=True,
     )
 
