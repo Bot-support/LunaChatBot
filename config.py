@@ -1,5 +1,5 @@
 bot_token = "1728730929:AAENgSjKZv7UJsbvsdgtuTOPNIOeSPljqOE"
-ARQ_API_KEY = "Get this from @ARQBot"
+ARQ_API_KEY = "XVYBGD-LXEZGR-CSZMIY-RDVPSR-ARQ"
 
 # List of supported languages >>
 # https://py-googletrans.readthedocs.io/en/latest/#googletrans-languages
