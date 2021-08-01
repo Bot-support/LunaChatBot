@@ -1,4 +1,4 @@
-bot_token = "16901971:AAFqdM_SQE1PB2P1xLr67k"
+bot_token = "1728730929:AAENgSjKZv7UJsbvsdgtuTOPNIOeSPljqOE"
 ARQ_API_KEY = "Get this from @ARQBot"
 
 # List of supported languages >>
